@@ -11,3 +11,4 @@ dependencies:
   - node
   - path
   - user
+core_incompatible: false
